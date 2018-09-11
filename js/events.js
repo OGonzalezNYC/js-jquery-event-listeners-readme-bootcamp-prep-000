@@ -32,6 +32,9 @@ function submitIt() {
 $(document).ready(function(){
 
 // call functions here
-<script src="events.js"></script>
+getIt
+frameIt
+pressIt
+submitIt
 
 });
