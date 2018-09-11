@@ -32,6 +32,6 @@ function submitIt() {
 $(document).ready(function(){
 
 // call functions here
-
+<script src="script.js"></script>
 
 });
